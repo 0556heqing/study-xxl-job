@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95d396e2-59cf-49b4-9bdc-7606d8f6239b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="study-xxl-job" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="study-xxl-job" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="study-xxl-job" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-772669616">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="2" />
+          <entry key="java" value="10" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="10" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="103" />
+          <entry key="yml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="103" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heqing/xxljob/jobhandler/DemoJobHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2998">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heqing/xxljob/config/XxlJobConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/heqing/xxljob/XxlJobApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>study-xxl-job</find>
+      <find>demoJobHandler</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="D:\Program Files\gradle-5.6.4" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5.6.4" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="study-xxl-job" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="study-xxl-job" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'study-xxl-job'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'study-xxl-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'study-xxl-job'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'study-xxl-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'study-xxl-job'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'study-xxl-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'study-xxl-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'study-xxl-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'study-xxl-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareKotlinBuildScriptModel" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Builds an OCI image of the application using the output of the bootJar task" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootBuildImage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'study-xxl-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4910868131604" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1727135397" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="837270931" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.3.3.RELEASE/5b1b66173960a95e6ffe76cf08a181806db94472/spring-boot-gradle-plugin-2.3.3.RELEASE-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-buildpack-platform/2.3.3.RELEASE/870054ed937b44d0dba17e6edb1e1ef62a13a338/spring-boot-buildpack-platform-2.3.3.RELEASE-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.3.3.RELEASE/3ae6427c0fc49addfadac6811f5cc59f8eeba62f/spring-boot-loader-tools-2.3.3.RELEASE-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.11.RELEASE/299e639f3b624f38e331d4deda7402d418431f61/dependency-management-plugin-1.0.11.RELEASE-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.2/4f0c6c172892b0fb6b7f09a54cc616b9f9516bca/jackson-databind-2.11.2-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.11.2/24b91098993f2315d81fa46f6f7a810581a335f0/jackson-module-parameter-names-2.11.2-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.5.0/d6e67f3d510487a00a266c362e4ca7e8824618e6/jna-platform-5.5.0-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.19/9c242093f81288289bc433e383c8a8de89489406/commons-compress-1.19-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.12/f899c33d48d6d513ddda79441b4ba90643f19f8/httpclient-4.5.12-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework/spring-core/5.2.8.RELEASE/201078aaf5a068b7766d561490354eaf5d8d1574/spring-core-5.2.8.RELEASE-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.2/128e08218b68149f37f56b209fc8ccc5b5321142/jackson-annotations-2.11.2-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.2/f08c2af3b8715d9ace84dc111170cb1e28e104ef/jackson-core-2.11.2-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.5.0/4555547b3bfc9d827f5310888726d62944c4f756/jna-5.5.0-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/d6e6365dac44108fb2cc0684daea0d40bc6609f5/httpcore-4.4.13-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/bce4ba84fd527950e35040b20a991c63e90e2850/commons-codec-1.11-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.2.8.RELEASE/8028294eeb96a17d05e3e6d21170121e4c0882cf/spring-jcl-5.2.8.RELEASE-sources.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.3.3.RELEASE/5f6278b05b560214c18502bf082df1a5ac72bda/spring-boot-gradle-plugin-2.3.3.RELEASE.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-buildpack-platform/2.3.3.RELEASE/d6bda7274932bda224598827e6114c51e1b2f153/spring-boot-buildpack-platform-2.3.3.RELEASE.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.3.3.RELEASE/835ec0369e565ad30e2e2623dec82ff8013c594d/spring-boot-loader-tools-2.3.3.RELEASE.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.11.RELEASE/3de422bc45afcb94a538ba9502984b503c7ae756/dependency-management-plugin-1.0.11.RELEASE.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.2/ee08bbd8975dde844307fe8309dfcd5ec7ee129d/jackson-databind-2.11.2.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.11.2/c0dc526fcef5a3aae0273fc516ecf3505f7a5de8/jackson-module-parameter-names-2.11.2.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.5.0/af38e7c4d0fc73c23ecd785443705bfdee5b90bf/jna-platform-5.5.0.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.19/7e65777fb451ddab6a9c054beb879e521b7eab78/commons-compress-1.19.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.12/4023a2a80b64c25926911faf350b50cd2a29220f/httpclient-4.5.12.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework/spring-core/5.2.8.RELEASE/35a1654028254abd7cb85799a891de8a0ab9f599/spring-core-5.2.8.RELEASE.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.2/e0a7f61fce3e3eac38a079c11831868269de2ea/jackson-annotations-2.11.2.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.2/bc022ab0f0c83c07f9c52c5ab9a6a4932b15cc35/jackson-core-2.11.2.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.5.0/e0845217c4907822403912ad6828d8e0b256208/jna-5.5.0.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/853b96d3afbb7bf8cc303fe27ee96836a10c1834/httpcore-4.4.13.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar" />
+                            <option value="D:/m2/repository/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.2.8.RELEASE/e18b8dea088cc58fad8fc25ee93f22987dd05d94/spring-jcl-5.2.8.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="study-xxl-job" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files/gradle-5.6.4/src/announce" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/antlr" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/base-services" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/base-services-groovy" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/bootstrap" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/build-cache" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/build-cache-http" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/build-cache-packaging" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/build-comparison" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/build-init" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/build-option" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/build-profile" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/cli" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/code-quality" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/composite-builds" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/core" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/core-api" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/dependency-management" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/diagnostics" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/docs" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/ear" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/execution" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/file-collections" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/files" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/hashing" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/ide" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/ide-native" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/ide-play" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/installation-beacon" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/instant-execution" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/instant-execution-report" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/internal-android-performance-testing" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/internal-integ-testing" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/internal-performance-testing" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/internal-testing" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/ivy" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/jacoco" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/javascript" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/jvm-services" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/kotlin-dsl" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/kotlin-dsl-plugins" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/kotlin-dsl-provider-plugins" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/kotlin-dsl-test-fixtures" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/kotlin-dsl-tooling-builders" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/kotlin-dsl-tooling-models" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/language-groovy" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/language-java" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/language-jvm" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/language-native" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/language-scala" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/launcher" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/logging" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/maven" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/messaging" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/model-core" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/model-groovy" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/native" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/osgi" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/persistent-cache" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/pineapple" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/platform-base" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/platform-jvm" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/platform-native" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/platform-play" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/plugin-development" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/plugin-use" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/plugins" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/process-services" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/publish" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/reporting" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/resources" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/resources-gcs" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/resources-http" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/resources-s3" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/resources-sftp" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/scala" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/signing" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/snapshots" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/test-kit" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/testing-base" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/testing-junit-platform" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/testing-jvm" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/testing-native" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/tooling-api" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/tooling-api-builders" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/tooling-native" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/version-control" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/worker-processes" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/workers" />
+                  <option value="D:/Program Files/gradle-5.6.4/src/wrapper" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/ant-1.9.14.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/ant-launcher-1.9.14.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-api-metadata-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-base-services-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-base-services-groovy-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-bootstrap-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-build-cache-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-build-cache-packaging-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-build-option-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-cli-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-core-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-core-api-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-docs-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-execution-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-file-collections-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-files-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-hashing-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-installation-beacon-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-instant-execution-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-jvm-services-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-kotlin-dsl-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-kotlin-dsl-tooling-models-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-launcher-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-logging-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-messaging-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-model-core-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-model-groovy-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-native-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-persistent-cache-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-pineapple-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-process-services-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-resources-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-runtime-api-info-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-snapshots-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-tooling-api-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-worker-processes-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/gradle-wrapper-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-announce-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-antlr-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-build-cache-http-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-build-comparison-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-build-init-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-build-profile-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-code-quality-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-composite-builds-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-dependency-management-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-diagnostics-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-ear-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-ide-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-ide-native-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-ide-play-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-ivy-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-jacoco-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-javascript-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-kotlin-dsl-provider-plugins-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-kotlin-dsl-tooling-builders-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-language-groovy-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-language-java-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-language-jvm-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-language-native-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-language-scala-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-maven-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-osgi-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-platform-base-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-platform-jvm-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-platform-native-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-platform-play-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-plugin-development-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-plugin-use-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-plugins-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-publish-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-reporting-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-resources-gcs-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-resources-http-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-resources-s3-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-resources-sftp-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-scala-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-signing-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-test-kit-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-testing-base-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-testing-junit-platform-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-testing-jvm-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-testing-native-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-tooling-api-builders-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-tooling-native-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-version-control-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/gradle-workers-5.6.4.jar" />
+                  <option value="D:/Program Files/gradle-5.6.4/lib/plugins/ivy-2.3.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../hq/demo-spring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heqing/learn/XxlJobApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heqing/xxljob/config/XxlJobConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/heqing/xxljob/jobhandler/DemoJobHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/apache/maven-3.2.5" />
+        <option name="userSettingsFile" value="D:\Program Files\apache\maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="236" />
+    <option name="y" value="61" />
+    <option name="width" value="1550" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>AccessibilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>FreeMarker</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LintLintAndroid</id>
+          </State>
+          <State>
+            <id>LoggingJava</id>
+          </State>
+          <State>
+            <id>MemoryJava</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsKotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective accessJava</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Struts 2Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Velocity</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study-xxl-job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-xxl-job" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636957041877" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\study\study-xxl-job\src\main\java" />
+      <recent name="D:\workspace\study\study-xxl-job\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.study-xxl-job [clean]">
+    <configuration name="study-xxl-job [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="XxlJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="study-xxl-job_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heqing.xxljob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heqing.xxljob.XxlJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.XxlJobApplication" />
+      <item itemvalue="Gradle.study-xxl-job [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.study-xxl-job [clean]" />
+        <item itemvalue="Spring Boot.XxlJobApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95d396e2-59cf-49b4-9bdc-7606d8f6239b" name="Default Changelist" comment="" />
+      <created>1636956007007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636956007007</updated>
+      <workItem from="1636956015920" duration="1126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1126000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19772118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Sequence" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Build" weight="0.24929178" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37818697" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Gradle" weight="0.3297587" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19772118" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.24929178" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Inspection Results" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="5" />
+      <window_info anchor="bottom" id="Sequence" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="10" />
+      <window_info anchor="bottom" id="Message" order="11" />
+      <window_info anchor="bottom" id="Find" order="12" />
+      <window_info anchor="bottom" id="Run" order="13" visible="true" weight="0.37818697" />
+      <window_info anchor="bottom" id="Debug" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="15" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="right" id="PlantUML" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Codota" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/m2/repository/caches/modules-2/files-2.1/com.xuxueli/xxl-job-core/2.2.0/44d963c177c477969d7d45280116647d6169ab3/xxl-job-core-2.2.0-sources.jar!/com/xxl/job/core/biz/model/ReturnT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="e#462#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heqing/xxljob/XxlJobApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heqing/xxljob/jobhandler/DemoJobHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2998">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/heqing/xxljob/config/XxlJobConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

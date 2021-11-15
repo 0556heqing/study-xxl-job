@@ -1,0 +1,46 @@
+
+S
+java:S2629˜"7Use the built-in formatting to construct this argument.(Š¤àÿùÿÿÿÿ
+E
+java:S2093n"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+]
+java:S3457˜"AFormat specifiers should be used instead of string concatenation.(Š¤àÿùÿÿÿÿ
+U
+java:S4719Ñ"9Replace charset name argument with StandardCharsets.UTF_8(›©˜ãúÿÿÿÿ
+l
+java:S3008H"ORename this field "POST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿô÷ê8˜ÑÒ‘Ò/
+a	java:S112Î"FDefine and throw a dedicated exception instead of using a generic one.(‰¯ñôûÿÿÿÿ
+?
+java:S1659H""Declare "POST" on a separate line.(ÿô÷ê8˜ÑÒ‘Ò/
+U
+java:S4719Ç"9Replace charset name argument with StandardCharsets.UTF_8(‚ŒéÏıÿÿÿÿ
+k
+java:S3008H"NRename this field "GET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿô÷ê8˜ÑÒ‘Ò/
+X
+java:S3457¬"AFormat specifiers should be used instead of string concatenation.(“üÎ€
+g
+java:S1192˜"KDefine a constant instead of duplicating this literal "] invalid." 3 times.(Š¤àÿùÿÿÿÿ
+a	java:S112ñ"FDefine and throw a dedicated exception instead of using a generic one.(ƒğ©úÿÿÿÿ
+h
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨Ş€R
+‡
+java:S1130U"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¡«•«ûÿÿÿÿ
+[	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(¨Ş€R
+`	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(¡«•«ûÿÿÿÿ
+X
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(Ù½§‹
+N
+java:S2629¬"7Use the built-in formatting to construct this argument.(“üÎ€
+ˆ
+java:S1130ñ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ƒğ©úÿÿÿÿ
+x
+java:S3008I"VRename this field "STATUS_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³Éùÿÿÿÿ8˜ÑÒ‘Ò/
+F
+java:S2093¶"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+[	java:S112i"FDefine and throw a dedicated exception instead of using a generic one.(æ¼™Œ
+u
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(­åû˜ıÿÿÿÿ
+a
+java:S1192~"FDefine a constant instead of duplicating this literal "error" 3 times.(ùÇÎ¥ùÿÿÿÿ
+N
+java:S2629°"7Use the built-in formatting to construct this argument.(Ù½§‹
